@@ -1,0 +1,1 @@
+execute as @e[type=interaction,tag=craft_scheduled] at @s run function crafting:craft/finalize

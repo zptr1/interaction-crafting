@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "crafting:init",
+    "crafting:loop/create_table",
+    "crafting:loop/remove_table"
+  ]
+}

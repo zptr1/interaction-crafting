@@ -1,0 +1,2 @@
+give @a[tag=crafting_table_place_fail] glow_item_frame{custom_item_id:"crafting_table",display:{Name:'{"translate":"block.minecraft.crafting_table","italic":false}'},EntityTag:{Invisible:1b,Silent:1b,Fixed:1b,Invulnerable:1b,Tags:[crafting_place_table]}}
+tag @a remove crafting_table_place_fail
