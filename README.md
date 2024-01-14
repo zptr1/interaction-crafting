@@ -14,7 +14,7 @@ This Minecraft datapack replaces the default and boring crafting table with a ne
 
 ### Installation
 
-‼ Make sure you have experimental 1.21 features enabled! ([here's how to enable them on existing worlds](https://www.youtube.com/watch?v=MmLHVI-U5xM))
+⚠️ Make sure you have experimental 1.21 features enabled! ([here's how to enable them on existing worlds](https://www.youtube.com/watch?v=MmLHVI-U5xM))
 
 ## How?
 
