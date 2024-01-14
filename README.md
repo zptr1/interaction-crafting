@@ -1,6 +1,6 @@
 # Interaction Crafting
 
-This Minecraft datapack replaces the default and boring crafting table with a new interaction-based crafting system for 1.20.3+.
+This Minecraft datapack replaces the default and boring crafting table with a new interaction-based crafting system.
 
 ### Features
 
@@ -24,7 +24,7 @@ When a crafting table is used, it places the crafter block at the bedrock level 
 
 This allows to support any vanilla and custom recipes.
 
-Unfortunately, this breaks a lot of custom recipes from datapacks, since a lot of datapacks use knowledge books and advancements to output NBT items.
+Unfortunately, this breaks a lot of custom recipes from datapacks, since they use knowledge books and advancements to output NBT items.
 
 ## API (defining custom NBT recipes)
 
@@ -43,7 +43,7 @@ Each recipe needs to have three properties: type (`3x3`, `2x2` or `shapeless`), 
 
 3x3 and 2x2 recipes take `i` as an array of item IDs, and shapeless recipes take `i` as an object of item IDs and the required amount.
 
-Although, to optimize recipe checks, the type of the recipe needs to be provided with a key rather than a value; so instead of providing a separate `type` property, you need to provide either `3x3`, `2x2` or `shapeless` properties and set their values to `1b` (`true`)
+Although, to optimize recipe checks, the type of the recipe needs to be provided with a key rather than a value; so instead of providing a specific property, you need to provide either `3x3`, `2x2` or `shapeless` properties with the value of `1b` (`true`)
 
 Here's an example recipe:
 ```elm
