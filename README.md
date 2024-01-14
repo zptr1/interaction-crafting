@@ -7,7 +7,6 @@ This Minecraft datapack replaces the default and boring crafting table with a ne
 - Lightweight
 - Supports all recipes (including modded)
 - Supports custom data-driven NBT recipes
-- Does not require any resourcepacks
 
 ### Showcase
 
@@ -15,9 +14,7 @@ This Minecraft datapack replaces the default and boring crafting table with a ne
 
 ### Installation
 
-1. ‼ Make sure you have experimental 1.21 features enabled! ([here's how to enable them on existing worlds](https://www.youtube.com/watch?v=MmLHVI-U5xM))
-2. Download the repository as .zip
-3. Drop the .zip into the datapack folder of your world (`.minecraft/saves/[your world]/datapacks`)
+‼ Make sure you have experimental 1.21 features enabled! ([here's how to enable them on existing worlds](https://www.youtube.com/watch?v=MmLHVI-U5xM))
 
 ## How?
 
