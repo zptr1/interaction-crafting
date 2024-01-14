@@ -10,7 +10,7 @@ This Minecraft datapack replaces the default and boring crafting table with a ne
 
 ### Showcase
 
-![](https://i.imgur.com/Z6Zgu0O.gif)
+![Showcase](https://cdn.zptr.cc/52985/interaction-crafting.gif)
 
 ### Installation
 
