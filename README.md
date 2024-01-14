@@ -24,7 +24,7 @@ When a crafting table is used, it places the crafter block at the bedrock level 
 
 This allows to support any vanilla and custom recipes.
 
-Unfortunately, this breaks a lot of custom recipes from datapacks, since they use knowledge books and advancements to output NBT items.
+Unfortunately, this breaks a lot of custom recipes from datapacks, since they use knowledge books and advancements to output NBT items, but this datapack supports custom data-driven NBT recipes!
 
 ## API (defining custom NBT recipes)
 
